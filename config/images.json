@@ -1,0 +1,14 @@
+{
+  "whiteList": [
+    "https://farm1.staticflickr.com/456/31757226834_68362e38a1.jpg",
+    "https://farm1.staticflickr.com/355/32520167886_7d2a7fc33d.jpg",
+    "https://farm1.staticflickr.com/291/31900943593_03e2477933.jpg",
+    "https://farm1.staticflickr.com/592/32608036681_dab4c7727c.jpg"
+
+  ],
+  "blackList": [
+    "https://farm1.staticflickr.com/647/32351552280_c465f0fc90.jpg",
+    "https://farm1.staticflickr.com/397/32578475976_8a75184650.jpg",
+    "https://farm1.staticflickr.com/529/32351550770_be7b489ee9.jpg"
+  ]
+}
